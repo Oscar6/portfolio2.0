@@ -52,7 +52,7 @@ h4 {
 }
 
 p {
-  color: #878787;
+  color: #454545;
   font-size: 16px;
   font-weight: normal;
   line-height: 25px;
@@ -106,7 +106,7 @@ html{
 }
 
 a {
-  color: #757557;
+  color: #454545;
   -webkit-transition: 0.5s;
   transition: 0.5s;
   text-decoration: none !important;
@@ -240,13 +240,13 @@ a:hover, a:active, a:focus {
 }
 
 .service-thumb:hover {
-  background: #2b2b2b;
+  background: #d1d1d1;
   top: -5px;
 }
 
 .service-thumb:hover .fa,
 .service-thumb:hover h4 {
-  color: #ffffff;
+  color: #000000;
 }
 
 .service-thumb h4 {
@@ -254,7 +254,7 @@ a:hover, a:active, a:focus {
 }
 
 .service-thumb .fa {
-  color: #7682cc;
+  color: #000000;
   font-size: 62px;
   text-align: center;
   margin-top: 32px;
@@ -276,7 +276,7 @@ a:hover, a:active, a:focus {
 }
 
 .about-image-thumb img {
-  border-radius: 5px;
+  border-radius: 100%;
   margin-bottom: 22px;
 }
 
@@ -351,7 +351,6 @@ a:hover, a:active, a:focus {
   margin-bottom: 10px;
   -webkit-transition: all ease-in-out 0.4s;
   transition: all ease-in-out 0.4s;
-  
   background: #f9f9f9;
 }
 
@@ -384,13 +383,13 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 footer {
-  background: #7682cc;
+  background: #464647;
   text-align: center;
-  padding: 120px 0;
+  padding: 8px 0;
 }
 
 footer p {
-  padding-bottom: 16px;
+  padding-bottom: 1px;
 }
 
 
